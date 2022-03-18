@@ -14,7 +14,20 @@
 - Install [Web3j library](https://www.web3labs.com/web3j-sdk) - [https://docs.web3j.io/latest/quickstart/](https://docs.web3j.io/latest/quickstart/)
 - Add Maven plugin and setup dependencies
 
+- Web3j package dependencies using Maven
+ [Web3j package dependencies using Maven](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png)
 
+- PortfolioManager project package 
+[ProjectPackage](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png)
+
+- Maven library structure
+[Maven library structure](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png)                                                
+
+- Web3j Client initialization]
+[Web3j Client initialization](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig4.png)  
+
+- Client connection
+[Client connection](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig4.png)  
  
  ##
  
