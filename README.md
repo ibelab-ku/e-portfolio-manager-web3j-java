@@ -1,5 +1,5 @@
 
- # Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.**
+ # Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.
  
  ##
 
