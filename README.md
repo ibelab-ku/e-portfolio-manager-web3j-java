@@ -3,7 +3,7 @@
  
  ##
 
- Web3j is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
+  [Web3j](http://web3j.io/) is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
  
  ....
 
@@ -15,20 +15,7 @@
 - Install a Java IDE - [Jet Brains IntelliJ IDEA](https://www.jetbrains.com/idea/download/other.html) (community version)
 - Install [Web3j library](https://www.web3labs.com/web3j-sdk) - [https://docs.web3j.io/latest/quickstart/](https://docs.web3j.io/latest/quickstart/)
 - Add Maven plugin and setup dependencies
-<dependencies>
-    <dependency>
-        <groupId>org.web3j</groupId>
-        <artifactId>core</artifactId>
-        <version>4.8.4</version>
-    </dependency>
 
-    <dependency>
-        <groupId>org.slf4j</groupId>
-        <artifactId>slf4j-nop</artifactId>
-        <version>1.7.5</version>
-        <scope>compile</scope>
-    </dependency>
-</dependencies>
 
 
  
