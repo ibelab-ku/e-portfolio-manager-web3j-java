@@ -1,11 +1,11 @@
 
- **Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.**
+ # Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.**
  
  ##
 
   [Web3j](http://web3j.io/) is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
 
- **Prerequisites** 
+ ## Prerequisites 
 
 - Install an Ethereum blockchain node - [https://github.com/trufflesuite/truffle](https://github.com/trufflesuite/truffle)
 - Install solidity compiler - [https://docs.soliditylang.org/en/latest/installing-solidity.html](https://docs.soliditylang.org/en/latest/installing-solidity.html)
@@ -14,10 +14,11 @@
 - Install [Web3j library](https://www.web3labs.com/web3j-sdk) - [https://docs.web3j.io/latest/quickstart/](https://docs.web3j.io/latest/quickstart/)
 - Add Maven plugin and setup dependencies
 
+## Development Interfaces (IDE)
+
 - **Web3j package dependencies using Maven** <br>
  ![img|250x250](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png)
 
-##
 - **PortfolioManager project package** <br>
 ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png)
 
