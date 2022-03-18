@@ -1,11 +1,14 @@
-# e-portfolio manager_web3j-java
+
  Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages. 
  
  ##
 
+<<<<<<< HEAD
   [Web3j](http://web3j.io/) is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
+=======
+ [Web3j](http://web3j.io/) is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
+>>>>>>> f6fcef4942e40b22835f21261312fd54afcd7b0a
  
- ....
 
  **Prerequisites** 
 
@@ -16,6 +19,23 @@
 - Install [Web3j library](https://www.web3labs.com/web3j-sdk) - [https://docs.web3j.io/latest/quickstart/](https://docs.web3j.io/latest/quickstart/)
 - Add Maven plugin and setup dependencies
 
+<<<<<<< HEAD
+=======
+<dependencies>
+    <dependency>
+        <groupId>org.web3j</groupId>
+        <artifactId>core</artifactId>
+        <version>4.8.4</version>
+    </dependency>
+   
+   <dependency1>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-nop</artifactId>
+        <version>1.7.5</version>
+        <scope>compile</scope>
+    </dependency1>
+</dependencies>
+>>>>>>> f6fcef4942e40b22835f21261312fd54afcd7b0a
 
 
  
