@@ -21,12 +21,13 @@
         <artifactId>core</artifactId>
         <version>4.8.4</version>
     </dependency>
- <dependency>
+   
+   <dependency1>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-nop</artifactId>
         <version>1.7.5</version>
         <scope>compile</scope>
-    </dependency>
+    </dependency1>
 </dependencies>
 
 
