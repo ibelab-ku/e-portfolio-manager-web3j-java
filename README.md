@@ -15,19 +15,19 @@
 - Add Maven plugin and setup dependencies
 
 - Web3j package dependencies using Maven
- ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png | width=70px)
+ ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png)
 
 - PortfolioManager project package 
-![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png | width=70px)
+![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png)
 
 - Maven library structure
-![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig3.png | width=70px)                                                
+![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig3.png)                                                
 
 - Web3j Client initialization]
-![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig4.png | width=70px)  
+![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig4.png)  
 
 - Client connection
-![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig5.png | width=70%)  
+![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig5.png)  
  
  ##
  
