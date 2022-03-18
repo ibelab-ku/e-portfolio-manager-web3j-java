@@ -1,5 +1,5 @@
 
- Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages. 
+ **Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.**
  
  ##
 
@@ -14,19 +14,19 @@
 - Install [Web3j library](https://www.web3labs.com/web3j-sdk) - [https://docs.web3j.io/latest/quickstart/](https://docs.web3j.io/latest/quickstart/)
 - Add Maven plugin and setup dependencies
 
-- Web3j package dependencies using Maven
- ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png)
+- **Web3j package dependencies using Maven** <br>
+ ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png =250x250)
 
-- PortfolioManager project package 
+- **PortfolioManager project package** <br>
 ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png)
 
-- Maven library structure
+- **Maven library structure** <br>
 ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig3.png)                                                
 
-- Web3j Client initialization]
+- **Web3j Client initialization** <br>
 ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig4.png)  
 
-- Client connection
+- **Client node connection** <br>
 ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig5.png)  
  
  ##
