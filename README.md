@@ -3,7 +3,7 @@
  
  ##
 
- Web3j is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
+ [Web3j](http://web3j.io/) is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
  
  ....
 
@@ -20,13 +20,6 @@
         <groupId>org.web3j</groupId>
         <artifactId>core</artifactId>
         <version>4.8.4</version>
-    </dependency>
-
-    <dependency>
-        <groupId>org.slf4j</groupId>
-        <artifactId>slf4j-nop</artifactId>
-        <version>1.7.5</version>
-        <scope>compile</scope>
     </dependency>
 </dependencies>
 
