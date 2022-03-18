@@ -23,7 +23,7 @@ public class Main {
 
         //Web3j client initialization
         System.out.println("Connecting to the Ethereum node ... ");
-        Web3j web3 = Web3j.build(new HttpService("http://192.168.0.10:22001"));  
+        Web3j web3 = Web3j.build(new HttpService("http://127.0.0.1:7545"));  
         System.out.println("Successfully connected to the Ethereum client node!");
 
         // Credential used for accessing to the portfolio contract and creating new portfolio
