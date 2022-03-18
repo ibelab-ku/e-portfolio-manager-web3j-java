@@ -1,5 +1,6 @@
 
- ### Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.
+ ## Web3j-Java-based e-Portfolio Manager
+ Ethereum blockchain-based e-portfolio mangement application built using Web3j API, java and solidity languages.
  
   [Web3j](http://web3j.io/) is a lightweight, highly modular, reactive, type-safe Java and Android library for working with Smart Contracts and integrating with Ethereum blockchains.
 
