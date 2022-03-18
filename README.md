@@ -15,7 +15,7 @@
 - Add Maven plugin and setup dependencies
 
 - **Web3j package dependencies using Maven** <br>
- ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png =250x250)
+ ![img|250x250](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig2.png)
 
 - **PortfolioManager project package** <br>
 ![](https://github.com/ibelab-ku/e-portfolio-manager-web3j-java/blob/main/assets/fig1.png)
